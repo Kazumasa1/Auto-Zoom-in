@@ -30,3 +30,7 @@ software：Automator (version 2.10), カレンダー (version 11.0)
 ## Note
 Macのスリープや電源が落ちている場合は、実行直前にスリープ解除・起動するようにスケジュールを設定する必要があります
 
+![バッテリースケジュール](https://user-images.githubusercontent.com/70145199/166949844-eb507e4e-039e-4c5e-b80b-e38e352703ba.png)
+
+## Date
+* 2022/05/05
