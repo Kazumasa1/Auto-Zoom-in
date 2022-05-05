@@ -3,6 +3,7 @@ Macの標準アプリ「Automater」を使って、授業の時間になった�
 Demoではアプリを直接実行していますが、実際はカレンダーに登録して定期実行させます
 
 ## Demo
+※Auto_Zoom_in.appを実行した後の処理は自動で実行されています
 ![auto_zoom_in](https://user-images.githubusercontent.com/70145199/166935434-ed8dbb41-bd54-4bab-849b-72a4ed69f302.gif)
 
 ## Requirement
